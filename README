@@ -15,7 +15,7 @@ More information on the project home page: http://rubyosa.rubyforge.org.
 
 == Requirements ==
 
-Mac OS X 10.4.X or greater
+Mac OS X 10.4.X or up to Mac OS X 10.9 (api was deprecated in 10.10)[https://developer.apple.com/library/mac/documentation/Carbon/Reference/LaunchServicesReference/#//apple_ref/c/func/LSFindApplicationForInfo]
 ruby 1.8.X or greater
 libxml-ruby 0.3.8 or greater
 
